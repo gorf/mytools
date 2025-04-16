@@ -1,10 +1,9 @@
 <div align="center">
 
-![One Person Company AI Tools](./assets/banner-ghibli-2.jpg)
 
-<h1>一人公司</h1>
+<h1>我的工具</h1>
 
-一人公司 AI 工具系列，有些工具是宝，有些公司是坑
+工具系列，有些工具是宝，有些公司是坑
 
 本 Repo 致力于帮您踩坑，精准找宝 🤩
 
@@ -26,17 +25,12 @@
   <summary><kbd>目录</kbd></summary>
 
 - [🌟 第一弹：日常必备工具](#-第一弹日常必备工具)
-  - [AI 对话](#ai-对话)
-  - [图文视频](#图文视频)
-  - [IDE](#ide)
-  - [命令行](#命令行)
-  - [浏览器](#浏览器)
-- [🚀 第二弹：一键生成网站/App](#-第三弹一键生成网站app)
-- [🛠 第三弹：日常工具篇](#-第四弹日常工具篇)
+- [🚀 第二弹：一键生成网站/App/游戏](#-第二弹一键生成网站app游戏)
+- [🛠 第三弹：效率提升工具](#-第三弹效率提升工具)
   - [系统增强](#系统增强)
   - [媒体工具](#媒体工具)
   - [效率工具](#效率工具)
-- [🎨 第四弹：设计工具集合](#-第二弹设计工具集合)
+- [🎨 第四弹：设计工具集合](#-第四弹设计工具集合)
   - [全能设计](#全能设计)
   - [运营设计](#运营设计)
   - [网站设计](#网站设计)
@@ -62,9 +56,12 @@
   - 免费额度
 
 - 💻 **IDE**
-  - [TRAE][trae-link] + [Cursor][cursor-link]
-  - AI 辅助开发
-  - 3.7免费用+免费
+  - [TRAE海外版][trae-link]
+    - claude 3.7免费用+免费
+  - [Cursor][cursor-link]
+    - 我是pro用户
+    - 扩展：
+        - [花生：中文Cursor Rules](https://marketplace.cursorapi.com/items?itemName=huasheng.cursor-rules-huasheng)
 
 - 📟 **命令行**
   - [Warp][warp-link]
@@ -114,6 +111,11 @@
   - 支持长截图、GIF、OCR
   - 贴图功能方便参考
   - 丰富标注工具
+
+- 🎬 **[ChatImg][chatimg-link]** - 图片转视频（免费）
+  - 一键将静态图片转为动态视频
+  - 支持多种转换效果
+  - 简单易用的在线工具
 
 - 🎥 **[MotionShot][motionshot-link]** - 演示录制
   - 专业演示制作
