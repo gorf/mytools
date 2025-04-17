@@ -25,6 +25,7 @@
   <summary><kbd>目录</kbd></summary>
 
 - [🌟 第一弹：日常必备工具](#-第一弹日常必备工具)
+  - [vscode扩展(多数Cursor、trae、winsurf通用)](#vscode扩展多数cursortraewinsurf通用)
 - [🚀 第二弹：一键生成网站/App/游戏](#-第二弹一键生成网站app游戏)
 - [🛠 第三弹：效率提升工具](#-第三弹效率提升工具)
   - [系统增强](#系统增强)
@@ -45,33 +46,25 @@
 
 ## 🌟 第一弹：日常必备工具
 
-- 🤖 **AI 对话**
-  - [Grok][grok-link]
-  - 强大的 AI 对话能力
-  - 免费额度
+| 类型 | 工具 | 特点 | 价格 |
+|:----:|:----:|:----:|:----:|
+| 🤖 **AI 对话** | [Grok][grok-link] | 强大的 AI 对话能力 | 免费额度 |
+| 🎨 **图文视频** | [KlingAI][kling-link] | AI 驱动的创意工具 | 免费额度 |
+|💻 **IDE** | [Cursor][cursor-link] |我的主要工作平台  | 我是pro用户 |
+| 💻 **IDE** | [TRAE海外版][trae-link] | claude 3.7 | 免费 |
+| 📟 **命令行** | [Warp][warp-link] | 现代化终端 | 免费 |
+| 🌐 **浏览器** | [Deta.Surf][deta-link] | AI 驱动浏览器 | 内测免费 |
 
-- 🎨 **图文视频**
-  - [KlingAI][kling-link] 
-  - AI 驱动的创意工具
-  - 免费额度
 
-- 💻 **IDE**
-  - [TRAE海外版][trae-link]
-    - claude 3.7免费用+免费
-  - [Cursor][cursor-link]
-    - 我是pro用户
-    - 扩展：
-        - [花生：中文Cursor Rules](https://marketplace.cursorapi.com/items?itemName=huasheng.cursor-rules-huasheng)
 
-- 📟 **命令行**
-  - [Warp][warp-link]
-  - 现代化终端
-  - 免费
 
-- 🌐 **浏览器**
-  - [Deta.Surf][deta-link]
-  - AI 驱动浏览器
-  - 内测免费
+### vscode扩展(多数Cursor、trae、winsurf通用)
+
+ [花生：中文Cursor Rules](https://marketplace.cursorapi.com/items?itemName=huasheng.cursor-rules-huasheng)
+
+
+
+
 
 
 <br>
@@ -107,6 +100,8 @@
 - 🔧 **[Ice][ice-link]** - 工具栏增强（开源）
 
 ### 媒体工具
+
+- https://cobalt.tools/ 下载视频
 - 📸 **[PixPin][pixpin-link]** - 全能截图（免费）
   - 支持长截图、GIF、OCR
   - 贴图功能方便参考
@@ -123,12 +118,13 @@
   - $7/月或$140终身
 
 - 🎬 **其他推荐工具**
-  - [Snipaste][snipaste-link] - 截图（免费）
-  - [Kap][kap-link] - GIF录制（开源）
-  - [KeyCastr][keycastr-link] - 按键显示（开源）
-  - [OBS][obs-link] - 专业录屏（开源）
-  - [IINA][iina-link] - 视频播放器（开源）
-  - [Downie][downie-link] - 视频下载（试用）
+  - 📸 **[Snipaste][snipaste-link]** - 截图（免费）
+  - 🎬 **[Kap][kap-link]** - GIF录制（开源）
+  - ⌨️ **[KeyCastr][keycastr-link]** - 按键显示（开源）
+  - 🎥 **[OBS][obs-link]** - 专业录屏（开源）
+  - 🎬 **[IINA][iina-link]** - 视频播放器（开源）
+  - 📥 **[Downie][downie-link]** - 视频下载（试用）
+  - 🌩️ **[RecCloud][reccloud-link]** - 云端录屏（免费）
 
 ### 效率工具
 - 📟 **[Warp][warp-link]** - AI 终端（免费额度）
@@ -265,6 +261,7 @@
 [obs-link]: http://obsproject.com
 [iina-link]: http://iina.io
 [downie-link]: http://software.charliemonroe.net/downie
+[reccloud-link]: http://reccloud.com
 [pastebot-link]: http://tapbots.com/pastebot
 [cleanshot-link]: http://cleanshot.com
 [setapp-link]: http://setapp.com
