@@ -49,8 +49,9 @@
 | 类型 | 工具 | 特点 | 价格 |
 |:----:|:----:|:----:|:----:|
 | 🤖 **AI 对话** | [Grok][grok-link] | 强大的 AI 对话能力 | 免费额度 |
+| 🎤 **TTS** | [Fish][fish-link] | 语音克隆 | 免费额度 |
 | 🎨 **图文视频** | [KlingAI][kling-link] | AI 驱动的创意工具 | 免费额度 |
-|💻 **IDE** | [Cursor][cursor-link] |我的主要工作平台  | 我是pro用户 |
+|💻 **IDE** | [Cursor][cursor-link] |我的主要工作平台FF | 我是pro用户 |
 | 💻 **IDE** | [TRAE海外版][trae-link] | claude 3.7 | 免费 |
 | 📟 **命令行** | [Warp][warp-link] | 现代化终端 | 免费 |
 | 🌐 **浏览器** | [Deta.Surf][deta-link] | AI 驱动浏览器 | 内测免费 |
@@ -58,9 +59,14 @@
 
 
 
+
 ### vscode扩展(多数Cursor、trae、winsurf通用)
 
- [花生：中文Cursor Rules](https://marketplace.cursorapi.com/items?itemName=huasheng.cursor-rules-huasheng)
+|类型|名称  |特点|
+|:----:|:----:|:----:|
+|AI| [花生：中文Cursor Rules](https://marketplace.cursorapi.com/items?itemName=huasheng.cursor-rules-huasheng) | 中文Cursor Rules | 中文 |
+|画图| [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | 画图 |
+|画图|[Draw.io Integration: Mermaid plugin](https://marketplace.visualstudio.com/items?itemName=nopeslide.vscode-drawio-plugin-mermaid) | 让draw.io支持mermaid |
 
 
 
@@ -224,6 +230,7 @@
 
 <!-- Tool Links -->
 [grok-link]: http://Grok.com
+[fish-link]: https://www.fish.audio/
 [kling-link]: http://klingai.com
 [relume-link]: http://Relume.io
 [trae-link]: http://TRAE.ai
