@@ -48,6 +48,7 @@
 
 | 类型 | 工具 | 特点 | 价格 |
 |:----:|:----:|:----:|:----:|
+|💻 **下载** | [抖音下载器][https://tiktokio.com/zh/抖音下载器/] |可以无水印下载  | 免费 |
 |订阅软件|[follow.is](https://follow.is/)| 订阅软件 | 免费 |
 |订阅软件|[readwise](https://read.readwise.io/)| 订阅软件 | 收费 |
 | 🤖 **AI 对话** | [Grok][grok-link] | 强大的 AI 对话能力 | 免费额度 |
@@ -57,7 +58,8 @@
 |💻 **IDE** | [Cursor][cursor-link] |我的主要工作平台FF | 我是pro用户 |
 | 💻 **IDE** | [TRAE海外版][trae-link] | claude 3.7 | 免费 |
 |💻 **IDE**|[Winsurf](https://windsurf.com/editor)|  | 免费额度 |
-|💻 **IDE**|[Roo-code](https://github.com/RooVetGit/Roo-Code)| Cursor的开源替代品 | 免费 |
+|💻 **IDE**|[Roo-code](https://github.com/RooVetGit/Roo-Code)| Cursor的开源替代品 |
+|💻 **python**|[Beeware](https://beeware.org/)| 跨平台python开发 | 免费 |
 | 📟 **命令行** | [Warp][warp-link] | 现代化终端 | 免费 |
 | 🌐 **浏览器** | [Deta.Surf][deta-link] | AI 驱动浏览器 | 内测免费 |
 
