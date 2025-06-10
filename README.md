@@ -48,20 +48,54 @@
 
 | 类型 | 工具 | 特点 | 价格 |
 |:----:|:----:|:----:|:----:|
-|💻 **下载** | [抖音下载器][https://tiktokio.com/zh/抖音下载器/] |可以无水印下载  | 免费 |
+|💻 **下载** | [抖音下载器](https://tiktokio.com/zh/抖音下载器/)|可以无水印下载 | 免费 |
+|💻 **文件转换** | [各种文件转markdown](https://github.com/microsoft/markitdown) |支持N多种格式，有mcp|免费 |
+|💻 **文件转换** | [pdf变扫描件](https://lookscanned.io/scan) |加章和签字转成扫描版  | 有免费版，功能有限，我是pro用户 |
+|💻 **文件转换** | pyPDF2 |python 库，pdf文件处理  |免费 |
+|💻 **图片管理** | [eagle](https://www.eagle.cool/)| 图片管理 | 免费 |
 |订阅软件|[follow.is](https://follow.is/)| 订阅软件 | 免费 |
-|订阅软件|[readwise](https://read.readwise.io/)| 订阅软件 | 收费 |
+|订阅软件|[readwise](https://read.readwise.io/)| 订阅软件，AI 問答摘要、專注閱讀、自動化筆記 | 收费，有免费试用 |
+|office文件处理 |[天工AI智能体海外版](https://skywork.ai/)| 处理office文件 | 有免费额度 |
+|office文件处理 |[天工AI智能体国内版](https://www.tiangong.cn/)| 处理office文件 | 有免费额度 |
+|需要事实|[felo search](https://felo.ai/)| 网络信息整合、学术论文研究查詢 | 免费 |
+|需要消息|[grok](https://grok.com/)| 直接整合查找國內外時事、社群討論 | 免费 |
+|需要主题研究|[NotebookLM](https://notebooklm.google.com/)| 大量同主題資訊 | 免费 |
+|需要主题研究|[小樊登](https://xiaofandeng.com/)| 大量同主題資訊 | 免费 |
 | 🤖 **AI 对话** | [Grok][grok-link] | 强大的 AI 对话能力 | 免费额度 |
 | 🤖 **AI 对话** | [Qwen][qwen-link] | 强大的 AI 对话能力 | 免费 |
+| 🤖 **AI 对话** | [豆包](https://www.doubao.com/) | 专注情感，生活场景必备 | 免费 |
+| 🤖 **AI 对话** | [Kimi](https://kimi.moonshot.cn/) | 专业长文处理，不怕内容多 | 免费额度 |
+| 🤖 **AI 对话** | [知乎AI](https://zhihu.com/ai) | 喜欢知乎文章的朋友必备 | 免费额度 |
+| 🤖 **AI 对话** | [Deepseek](https://www.deepseek.com/) | 写代码能力超强，完全不出错 | 免费额度 |
+|投研|[reportify](https://reportify.ai/)| 投研报告生成 | 免费额度 |
+| 📊 **PPT制作** | [Gamma](https://gamma.app/) | 全球最牛的AI PPT，根据文章直接定制化生成 | 免费额度 |
+| 📊 **思维导图** | [MindShow](https://www.mindshow.fun/) | 输入文字大纲，自动整理成思维导图，还能一键转换成演示文稿 | 免费额度 |
+| 🔍 **搜索工具** | [felo search](https://felo.ai/) | 全网最好用的小红书搜索工具，网络信息整合、学术论文研究查詢 | 免费 |
 | 🎤 **TTS** | [Fish][fish-link] | 语音克隆 | 免费额度 |
+| 🎤 **音乐** | [Suno](https://suno.com/)| 音乐生成 | 免费额度 |
+| 🎤 **OCR** | [windows 截图工具]()| OCR | 免费 |
+| 🎨 **配图** | [Napkin](https://napkin.ai/)| 配图 | 免费额度 |
+| 🎨 **AI绘画** | [美图秀秀](https://mt.meitudata.com/) | 直接AI绘画，大家用的惯 | 免费额度 |
 | 🎨 **图文视频** | [KlingAI][kling-link] | AI 驱动的创意工具 | 免费额度 |
+| 🎨 **图文视频** | [可灵](https://klingai.com/) | 文字生成视频，效果不错 | 免费额度 |
+| 🎨 **图文视频** | [Flux Kontext](https://flux1.ai/flux-kontext) | AI 驱动的图文视频工具 | 免费额度 |
+| 🎨 **图文视频** | [Lovart](https://www.lovart.ai) | AI 驱动的创意图文工具 | 免费额度 |
+| 🎨 **图文视频** | [即梦](https://jimeng.jianying.com/ai-tool/home/) | 即梦AI工具，网上很多视频就是他做的 | 免费额度 |
+| 🎨 **图文视频** | [Vidio](https://vidio.ai) | 视频生成 | 免费额度 |
+| 🎬 **视频剪辑** | [剪映专业版](https://lv.ulikecam.com/) | 功能强大，素材特效丰富，剪辑视频必装软件 | 免费/会员 |
 |💻 **IDE** | [Cursor][cursor-link] |我的主要工作平台FF | 我是pro用户 |
 | 💻 **IDE** | [TRAE海外版][trae-link] | claude 3.7 | 免费 |
 |💻 **IDE**|[Winsurf](https://windsurf.com/editor)|  | 免费额度 |
 |💻 **IDE**|[Roo-code](https://github.com/RooVetGit/Roo-Code)| Cursor的开源替代品 |
+|💻 **IDE**|[void](https://voideditor.com/)| Cursor的开源替代品 |
+|💻 **python项目管理**|[uv](https://docs.astral.sh/uv/)| uv 是一个极快的 Python 包和项目管理器,使用 Rust 编写。它可以替代 pip、pip-tools、pipx、poetry、pyenv、twine、virtualenv 等多种工具,提供全面的项目管理功能,包括依赖管理、虚拟环境、脚本运行、工具安装等。 | 免费 |
+|💻 **python项目管理**|[poetry](https://python-poetry.org/)| python项目管理 | 免费 |
+|💻 **翻译**|[沉浸式翻译](https://immersive-translate.owenyoung.com/)| 沉浸式翻译 | 免费 |
 |💻 **python**|[Beeware](https://beeware.org/)| 跨平台python开发 | 免费 |
 | 📟 **命令行** | [Warp][warp-link] | 现代化终端 | 免费 |
 | 🌐 **浏览器** | [Deta.Surf][deta-link] | AI 驱动浏览器 | 内测免费 |
+|自媒体运营|[新榜小豆芽](https://d.newrank.cn/?from=client)| 自媒体运营 | 免费/会员 |
+|自媒体运营|[sau](https://github.com/dreammis/social-auto-upload)| 自媒体运营 | 免费 |
 
 
 
@@ -165,6 +199,18 @@
   - 📊 支持文档、白板、社媒、视频等
   - 🎨 海量模板一键修改
   - 💳 绑卡免费 30 天
+
+- 🎨 **[稿定设计](https://www.gaoding.com/)** - 全能设计平台
+  - 📊 涵盖平面设计、电商设计等
+  - 🎨 提供超多可编辑模板
+  - 📱 满足各种设计需求
+  - 💳 免费/会员
+
+- 📱 **[易企秀](https://www.eqxiu.com/)** - H5页面制作平台
+  - 🚀 能快速做H5页面
+  - 🎨 模板种类多
+  - 📊 适合活动宣传、产品推广
+  - 💳 免费/会员
 
 ### 网站设计
 - 🌐 **[Relume][relume-link]** - AI 网站生成器
