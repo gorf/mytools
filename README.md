@@ -67,6 +67,10 @@
 | 🤖 **AI 对话** | [Kimi](https://kimi.moonshot.cn/) | 专业长文处理，不怕内容多 | 免费额度 |
 | 🤖 **AI 对话** | [知乎AI](https://zhihu.com/ai) | 喜欢知乎文章的朋友必备 | 免费额度 |
 | 🤖 **AI 对话** | [Deepseek](https://www.deepseek.com/) | 写代码能力超强，完全不出错 | 免费额度 |
+| 🤖 **投研** | [Intellectia AI](https://app.intellectia.ai/home) | AI 聊天/对话平台，适合股票投研 | 收费 |
+| 🤖 **投研** | [CopyOwl AI](https://copyowl.ai/app/home) | AI研究助手：一键深度研究，秒出高质量文章，还能提供可靠数据支持。 | 免费试用/收费 |
+| 🤖 **投研** | [StockGeist AI](https://www.stockgeist.ai/) | 分析社交媒体情绪，洞悉股市变动趋势的神器。 | 免费试用/收费 |
+| 🤖 **投研** | [Numerai](https://numer.ai/) | 机器学习驱动的对冲基金，数据科学家的投资天堂。 | 免费参与/按需付费 |
 |投研|[reportify](https://reportify.ai/)| 投研报告生成 | 免费额度 |
 | 📊 **PPT制作** | [Gamma](https://gamma.app/) | 全球最牛的AI PPT，根据文章直接定制化生成 | 免费额度 |
 | 📊 **思维导图** | [MindShow](https://www.mindshow.fun/) | 输入文字大纲，自动整理成思维导图，还能一键转换成演示文稿 | 免费额度 |
@@ -96,6 +100,7 @@
 | 🌐 **浏览器** | [Deta.Surf][deta-link] | AI 驱动浏览器 | 内测免费 |
 |自媒体运营|[新榜小豆芽](https://d.newrank.cn/?from=client)| 自媒体运营 | 免费/会员 |
 |自媒体运营|[sau](https://github.com/dreammis/social-auto-upload)| 自媒体运营 | 免费 |
+| 🎤 **AI 语音** | [ElevenLabs](https://elevenlabs.io/app/home) | AI 语音合成平台，支持多语言高质量配音 | 免费试用/收费 |
 
 
 
